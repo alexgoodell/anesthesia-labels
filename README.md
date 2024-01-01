@@ -2,7 +2,7 @@
 printable labels for syringes in operating room
 
 
-![labels](previews/5267labels-others-rbg.svg)
+![labels](previews/5267labels-others-rbg.png)
 
 
 - available above for Avery 5267 and Avery 60518
